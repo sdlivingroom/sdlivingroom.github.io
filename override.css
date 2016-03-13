@@ -222,11 +222,11 @@ li {
   /* Set a background color that will be displayed
      while the background image is loading */
   background-color: #464646;
-  margin-top: -9em;
+
 }
 
 .bgimg2 {
-  margin-top: 13.5em;
+
   background-image: url(beans.jpg);
   /* Background image is centered vertically and horizontally at all times */
   background-position: center center;
