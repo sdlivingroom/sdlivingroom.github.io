@@ -216,7 +216,7 @@ li {
 
   /* This is what makes the background image rescale based
      on the container's size */
-  background-size:auto;
+  background-size:cover;
 
 
   /* Set a background color that will be displayed
@@ -240,7 +240,7 @@ li {
 
   /* This is what makes the background image rescale based
      on the container's size */
-  background-size: auto;
+  background-size: cover;
 
   /* Set a background color that will be displayed
      while the background image is loading */
