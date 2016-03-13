@@ -203,7 +203,7 @@ li {
 }
 
 .bgimg {
-  background-image: url(info.png);
+  background-image: url("info.png");
   /* Background image is centered vertically and horizontally at all times */
   background-position: center center;
 
@@ -226,7 +226,7 @@ li {
 }
 
 .bgimg2 {
-  background-image: url(beans.jpg);
+  background-image: url("beans.jpg");
   /* Background image is centered vertically and horizontally at all times */
   background-position: center center;
 
@@ -248,7 +248,7 @@ li {
 }
 
 .gallery {
-  background-image: url(bg.JPG);
+  background-image: url("bg.JPG");
   /* Background image is centered vertically and horizontally at all times */
   background-position: center center;
 
@@ -271,7 +271,7 @@ li {
 }
 
 .bgimg3 {
-  background-image: url(smoke.jpg);
+  background-image: url("smoke.jpg");
   /* Background image is centered vertically and horizontally at all times */
   background-position: center center;
 
@@ -293,7 +293,7 @@ li {
 }
 
 .catering {
-  background-image: url(bg.JPG);
+  background-image: url("bg.JPG");
   /* Background image is centered vertically and horizontally at all times */
   background-position: center center;
 
