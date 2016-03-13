@@ -556,3 +556,27 @@ padding-top:100px;
   padding-left: 20px;
 }
 }
+
+.btn-xlg{
+  border-radius:5% !important;
+  background-color:transparent!important;
+/*  background-color:rgba(154, 109, 56, 0.7)  !important;*/
+  border-color: white !important;
+  border-width:3px!important;
+  color:white!important;
+  height:2em !important;
+  width:14em !important;
+  font-size:1.3em !important;
+  text-align:center !important;
+  vertical-align:center!important;
+  font-family: 'Roboto Condensed', sans-serif !important;
+  padding-top:.4em!important;
+  box-shadow:2!important;
+}
+
+.navimg {
+  display: block;
+  float: left;
+  margin-top: -1.1em! important;
+  padding-left: 20px;
+}
